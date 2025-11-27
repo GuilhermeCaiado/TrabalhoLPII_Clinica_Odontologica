@@ -1,0 +1,3 @@
+11111111111;Limpeza Dental (Profilaxia),Aplicação de Flúor,Raspagem de Tártaro
+22222222222;Extração de Siso,Restauração em Resina,Tratamento de Canal
+33333333333;Clareamento a Laser,Clareamento Caseiro,Polimento Dental

@@ -1,0 +1,6 @@
+Consulta Cardiológica;11111111111
+Eletrocardiograma;11111111111
+Consulta Dermatológica;22222222222
+Limpeza de Pele;22222222222
+Consulta Ortopédica;33333333333
+Raio-X;33333333333

@@ -1,0 +1,27 @@
+Limpeza Dental (Profilaxia);200.0
+Aplicação de Flúor;80.0
+Raspagem de Tártaro;250.0
+Extração de Siso;450.0
+Restauração em Resina;220.0
+Tratamento de Canal;850.0
+Clareamento a Laser;1200.0
+Clareamento Caseiro;600.0
+Polimento Dental;100.0
+Consulta de Avaliação;150.0
+Raio-X Panorâmico;120.0
+Tratamento de Gengiva;300.0
+Cirurgia Periodontal;500.0
+Enxerto Ósseo;800.0
+Aplicação de Selante;90.0
+Lentes de Contato Dental;2500.0
+Harmonização Orofacial;1800.0
+Facetas de Porcelana;2000.0
+Botox Terapêutico;1200.0
+Manutenção de Aparelho Ortodôntico;150.0
+Placa de Bruxismo;450.0
+Implante Dentário;2800.0
+Prótese Fixa;1500.0
+Coroa Dentária;1300.0
+Restauração em Amálgama;180.0
+Extração Simples;200.0
+Spa dos Pes;0.0
